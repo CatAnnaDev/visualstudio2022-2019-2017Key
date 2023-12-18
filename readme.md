@@ -1,12 +1,16 @@
 # Visual Studio Product Keys
 
 ### Visual Studio 2022 
- - Enterprise: `VHF9H-NXBBB-638P6-6JHCY-88JWH` https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022
- - Professional: `TD244-P4NB7-YQ6XK-Y8MMM-YWV2J` https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&channel=Release&version=VS2022
+ - Enterprise: `VHF9H-NXBBB-638P6-6JHCY-88JWH`
+   https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022
+ - Professional: `TD244-P4NB7-YQ6XK-Y8MMM-YWV2J`
+   https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&channel=Release&version=VS2022
 
 ### Visual Studio 2019
- - Enterprise `BF8Y8-GN2QH-T84XB-QVY3B-RC4DF` | `KBJFW-NXHK6-W4WJM-CRMQB-G3CD` https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16
- - Professional `NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y` | `NJVYC-BMHX2-G77MM-4XJMR-6Q8QF` https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Professional&rel=16
+ - Enterprise `BF8Y8-GN2QH-T84XB-QVY3B-RC4DF` | `KBJFW-NXHK6-W4WJM-CRMQB-G3CD`
+   https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16
+ - Professional `NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y` | `NJVYC-BMHX2-G77MM-4XJMR-6Q8QF`
+   https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Professional&rel=16
 
 ### Visual Studio 2017
  - Enterprise:  `NJVYC-BMHX2-G77MM-4XJMR-6Q8QF` | `N2VYX-9VR2K-T733M-MWD9X-KQCDF`
